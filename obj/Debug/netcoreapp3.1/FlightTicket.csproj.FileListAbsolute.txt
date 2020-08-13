@@ -1,0 +1,13 @@
+D:\OOP\FlightTicket\FlightTicket\bin\Debug\netcoreapp3.1\FlightTicket.exe
+D:\OOP\FlightTicket\FlightTicket\bin\Debug\netcoreapp3.1\FlightTicket.deps.json
+D:\OOP\FlightTicket\FlightTicket\bin\Debug\netcoreapp3.1\FlightTicket.runtimeconfig.json
+D:\OOP\FlightTicket\FlightTicket\bin\Debug\netcoreapp3.1\FlightTicket.runtimeconfig.dev.json
+D:\OOP\FlightTicket\FlightTicket\bin\Debug\netcoreapp3.1\FlightTicket.dll
+D:\OOP\FlightTicket\FlightTicket\bin\Debug\netcoreapp3.1\FlightTicket.pdb
+D:\OOP\FlightTicket\FlightTicket\obj\Debug\netcoreapp3.1\FlightTicket.csprojAssemblyReference.cache
+D:\OOP\FlightTicket\FlightTicket\obj\Debug\netcoreapp3.1\FlightTicket.AssemblyInfoInputs.cache
+D:\OOP\FlightTicket\FlightTicket\obj\Debug\netcoreapp3.1\FlightTicket.AssemblyInfo.cs
+D:\OOP\FlightTicket\FlightTicket\obj\Debug\netcoreapp3.1\FlightTicket.csproj.CoreCompileInputs.cache
+D:\OOP\FlightTicket\FlightTicket\obj\Debug\netcoreapp3.1\FlightTicket.dll
+D:\OOP\FlightTicket\FlightTicket\obj\Debug\netcoreapp3.1\FlightTicket.pdb
+D:\OOP\FlightTicket\FlightTicket\obj\Debug\netcoreapp3.1\FlightTicket.genruntimeconfig.cache
